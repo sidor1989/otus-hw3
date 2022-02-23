@@ -1,6 +1,5 @@
 # Info class
-Usage examples:
-- Own enum:
+Usage example:
 ```php
 <?php
 use Repin\Info
