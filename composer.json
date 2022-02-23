@@ -1,0 +1,21 @@
+{
+    "name": "repin/showinfo",
+    "description": "hph info show class",
+    "type": "package",
+    "license": "MIT",
+    "keywords": ["phpinfo"],   
+    "authors": [
+        {
+            "name": "Ilia Repin",
+            "email": "sidor1989@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Repin\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4 || ^8.0"
+    }
+}
